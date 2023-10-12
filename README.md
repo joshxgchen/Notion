@@ -79,12 +79,6 @@ Feel free to modify the script to fit your specific requirements and database sc
 
 Note: Would've added test files with more time, universal standard. Remember to cd into the Notion directory before running!
 
-
-## FAQ / Questions:
-
-
-I did admittedly almost get stuck on connecting my page to my integration, until I googled on Stackoverflow to figure it out.
-
 I understand this was done to develop more understanding of the API as well as Notion, so that isn't a complaint for me. Really, I enjoyed this takehome exercise.
 
 The main thing I would say is to have more documentation on why specific errors show up. For example, I don't know why document ID worked for me every time, whilst Page ID failed, even if the guides to get both online say the same thing. I couldn't get PAGEID to work for Notion's .update() for their database. I decided to make an alternative solution using dictionaries and sets to make it work out. 
